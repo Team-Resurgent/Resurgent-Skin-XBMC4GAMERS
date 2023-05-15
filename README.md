@@ -53,6 +53,10 @@ Includes 15 dynamic selectable backgrounds and built in soundtracks.
 ## Tips & Troubleshooting
 * Resurgent Theme uses the LoginAlt View as it's the most compatible, any seperated poster view will work without showing a border box.
 ![View Option](https://github.com/Team-Resurgent/Resurgent-Skin-XBMC4GAMERS/assets/50627371/5c41e883-6608-4ef3-b6cf-bdd4290a27c9)
+* Why won't XBMC4Gamers Show my splash screen?  
+In order for splash screens to work in themes, make sure your profile is set to auto login. this is done by disabling profile login via settings. 
+* The playlist doesn't start, what do I do?  
+In your Startup Options, enable audio playlist, then toggle on Use Theme Playlist.  Reset the Xbox.  If the playlist for the theme does not play, this means that the user profile logged in has not used a custom playlist before.  The solution is to change the setting from theme Playlist to Custom path playlist. Once, changed, navigate to this path: XBMC4Gamers/skins/profile skins/extras/themes/playlist, then select the resurgent.mu3 file. Reset the Xbox.  Once the dashboard re-loads the audio should begin to play. Go back into settings and change the playlist option back to Use theme playlist. Now when you use other XBMC4Gamers themes the audio will automatically change to match the theme.  Note: When themes are selected within Dashboard, the new playlist will start after a soft or hard reset. 
 
 ## Known Issues
 * We never have bugs :)
