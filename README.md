@@ -9,7 +9,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/teamresurgent)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/teamresurgent)
 
-[![Download](https://img.shields.io/badge/download-latest-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/Team-Resurgent/Repackinator/releases/latest)
+[![Download](https://img.shields.io/badge/download-latest-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com/Team-Resurgent/Resurgent-Skin-XBMC4GAMERS/releases)
 	
 Resurgent is completed Re-skin for XBMC4GAMERS with a synth/retro wave vibe. 
 Includes 15 dynamic selectable backgrounds and built in soundtracks. 
@@ -36,8 +36,8 @@ Includes 15 dynamic selectable backgrounds and built in soundtracks.
 
 
 
-## Preview Video
-[![Click Image to View Video](https://img.youtube.com/vi/jRQXU2aZeGQ/0.jpg)](https://youtu.be/jRQXU2aZeGQ)
+## Preview Video Click On Image To Play!!
+[![Preview Video(https://img.youtube.com/vi/jRQXU2aZeGQ/0.jpg)](https://youtu.be/jRQXU2aZeGQ)
 
 
 ## System Requirements
