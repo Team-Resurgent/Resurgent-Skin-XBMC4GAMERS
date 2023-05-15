@@ -1,0 +1,29 @@
+<includes>
+		<variable name="downloader_tab_focus_colour">
+				<value>FF0a9ece</value>
+		</variable>
+		<variable name="downloader_tab_nofocus_colour">
+				<value>80FFFFFF</value>
+		</variable>
+		<variable name="downloader_info_text_colour">
+				<value>FF212121</value>
+		</variable>
+		<variable name="downloader_button_text_colour">
+				<value>FFFFFFFF</value>
+		</variable>
+		<variable name="downloader_content_text_colour">
+				<value>FF212121</value>
+		</variable>
+		<variable name="downloader_content_colour">
+				<value>FFFFFFFF</value>
+		</variable>
+		<variable name="downloader_background_colour">
+				<value>FFD9D9D9</value>
+		</variable>
+		<variable name="downloader_spacer_colour">
+				<value>FA292929</value>
+		</variable>
+		<variable name="downloader_content_focus_colour">
+				<value>FF347992</value>
+		</variable>
+</includes>
