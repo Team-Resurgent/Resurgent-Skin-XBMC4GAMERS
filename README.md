@@ -50,9 +50,12 @@ Includes 15 dynamic selectable backgrounds and built in soundtracks.
 * Place unzipped folder into "XBMC4Gamers/skins/profile skin/"
 * Win!!!
 
+## Tips & Troubleshooting
+* Resurgent Theme uses the LoginAlt View as it's the most compatible, any seperated poster view will work without showing a border box.
+![View Option](https://github.com/Team-Resurgent/Resurgent-Skin-XBMC4GAMERS/assets/50627371/5c41e883-6608-4ef3-b6cf-bdd4290a27c9)
+
 ## Known Issues
 * We never have bugs :)
-
 * We ***only*** have happy accidents
 
 
