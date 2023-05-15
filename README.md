@@ -52,7 +52,9 @@ Includes 15 dynamic selectable backgrounds and built in soundtracks.
 
 ## Tips & Troubleshooting
 * Resurgent Theme uses the LoginAlt View as it's the most compatible, any seperated poster view will work without showing a border box.
+
 ![View Option](https://github.com/Team-Resurgent/Resurgent-Skin-XBMC4GAMERS/assets/50627371/5c41e883-6608-4ef3-b6cf-bdd4290a27c9)
+
 * Why won't XBMC4Gamers Show my splash screen?  
 In order for splash screens to work in themes, make sure your profile is set to auto login. this is done by disabling profile login via settings. 
 * The playlist doesn't start, what do I do?  
