@@ -37,7 +37,7 @@ Includes 15 dynamic selectable backgrounds and built in soundtracks.
 
 
 ## Preview Video Click On Image To Play!!
-[![Preview Video(https://img.youtube.com/vi/jRQXU2aZeGQ/0.jpg)](https://youtu.be/jRQXU2aZeGQ)
+[![Preview Video](https://img.youtube.com/vi/jRQXU2aZeGQ/0.jpg)](https://youtu.be/jRQXU2aZeGQ)
 
 
 ## System Requirements
