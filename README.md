@@ -33,9 +33,8 @@ Includes 15 dynamic selectable backgrounds and built in soundtracks.
 				[ xXBeefyDjXx .............................................. Tester ]				
 				
 				
+<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=jRQXU2aZeGQ?autoplay=1" frameborder="0" allowfullscreen></iframe>
 
-
-[![Watch the video](https://img.youtube.com/vi/jRQXU2aZeGQ/0.jpg)](https://youtu.be/jRQXU2aZeGQ)
 
 ## System Requirements
 ### Minimum
